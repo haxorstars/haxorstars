@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="50%" src="https://raw.githubusercontent.com/haxorstars/haxorstars/main/images/scleton.gif" />
 	<hr />
-	<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=NuLz | Haxorstars" /> <br />
+	<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=NuLz%20|%20Haxorstars" /> <br />
 	<p>Nobody And Don't Want To Be Anyone</p>
 	<br />
   <img src="https://i.imgur.com/fyaPzst.png" height="100" width="100" alt="haxorstars"><img src="https://i.imgur.com/nRoOcMw.png" height="100" width="100" alt="haxorstars"><img src="https://i.imgur.com/WjKefWp.png" height="100" width="100" alt="haxorstars"><img src="https://i.imgur.com/WAHXEIE.png" height="100" width="100" alt="haxorstars"><img src="https://i.imgur.com/8m9T3sG.png" height="100" width="100" alt="haxorstars">
