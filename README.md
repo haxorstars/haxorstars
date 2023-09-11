@@ -19,7 +19,7 @@
 
   <div align="center">
 <img height="135px" href="https://github.com/haxorstars" src="https://github-readme-stats.vercel.app/api?username=haxorstars&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=ff00ee,ff00ee,1a0929&theme=white" />
-	  <!-- wi*quL3fcV -->
+	  <br />
 	  <img href="https://github.com/haxorstars" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxorstars&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=000&bg_color=0,ff4751,faef55,62ff57&theme=graywhite" />
 </div>
 
