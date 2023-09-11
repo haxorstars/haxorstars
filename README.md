@@ -26,9 +26,8 @@
 <samp><h1>Enjoy Music 🎧</h1></samp>
 
 <div align="center">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6pRTvPqFYiJj9v2DfnQJSs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/embed/track/5GQaLen4w5m5YiJmzYfegN?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/></a>
 </div>
  </samp>
 </div>
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
-****
