@@ -13,7 +13,7 @@
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat&logo=visual%20studio%20code" /></a>
   <br />
 	<a href="https://github.com/haxorstars"><img src="https://img.shields.io/github/followers/haxorstars?label=Github&style=social" /></a>
-	<a href="mailto:nulz404@proton.me"><img src="https://img.shields.io/badge/Email-haxorstars@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="mailto:haxorstars@gmail.com"><img src="https://img.shields.io/badge/Email-haxorstars@gmail.com-e06c75?style=social&logo=gmail" /></a>
 	<a href="https://haxorstars.t.me"><img src="https://img.shields.io/badge/Telegram-@haxorstars-e06c75?style=social&logo=telegram" /></a>
     <a href="https://discordapp.com/users/480042950110216193"><img src="https://img.shields.io/badge/Discord-@haxorstars-e06c75?style=social&logo=discord" /></a>
 	<br />
